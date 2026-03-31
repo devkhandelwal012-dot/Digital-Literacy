@@ -1,0 +1,11 @@
+Case Study: Phishing Cybercrime
+
+Phishing is a type of cybercrime in which criminals impersonate trusted organizations to steal sensitive information such as passwords, bank details, or money. According to cybersecurity reports, phishing is one of the most common online scams used today.
+
+A typical phishing attack follows several steps. First, the attacker collects information about the target, often from social media or public sources. Next, they create a fake message—such as an email, SMS, or phone call—pretending to be from a bank, courier service, or government authority. The message usually creates urgency, like claiming a problem with an account or a pending payment. The victim is then asked to click a link or share personal details. Once the victim responds, the attacker steals the information or installs malware to access accounts and transfer money.
+
+A recent real incident involved a retired professor in Lucknow who was tricked through a fake “digital arrest” call and lost over ₹3 lakh. The scammers used fear and pressure to force quick payments.
+
+Phishing usually targets individuals who are less aware of digital security, such as elderly people or frequent online users. The consequences include financial loss, identity theft, and emotional stress. In serious cases, victims may lose access to their bank accounts or personal data, making recovery difficult.
+
+This case highlights the importance of awareness and caution while dealing with unknown online communications.

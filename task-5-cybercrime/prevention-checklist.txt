@@ -1,0 +1,28 @@
+Account & Password Safety
+Use strong, unique passwords for every account
+→ Combine uppercase, lowercase, numbers, and symbols (e.g., Shiven@2026!).
+→ Never reuse the same password across apps.
+Enable 2-factor authentication (2FA)
+→ Turn it on for email, banking, Instagram, and important apps.
+-Social Media & Privacy
+Limit what you share publicly
+→ Avoid posting your phone number, address, college ID, or live location.
+Verify friend/follow requests
+→ Fake profiles often target students—only accept people you know.
+-Device & Network Safety
+Avoid public Wi-Fi for sensitive work
+→ Don’t log into banking or UPI apps on café/hostel public networks.
+Keep your devices updated
+→ Install software updates and antivirus regularly to prevent malware.
+-Financial & UPI Safety (Important)
+Never approve unknown UPI collect requests
+→ Receiving money does NOT require entering a PIN.
+→ If someone asks for your UPI PIN to “send money,” it’s a scam.
+Double-check QR codes before scanning
+→ Fraudsters may replace QR codes in shops/hostels.
+→ Confirm the name before paying.
+Do not share OTPs, CVV, or bank details
+→ Banks or apps will NEVER ask for these on calls/messages.
+-Scams & Awareness
+Be cautious of “urgent” messages or offers
+→ Fake job offers, internship links, or “you won a prize” messages are common traps.
